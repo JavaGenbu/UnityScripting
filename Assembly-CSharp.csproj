@@ -37,6 +37,9 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Scripts/HelloWorld.cs" />
+     <Compile Include="Assets/Scripts/CapsuleRotation.cs" />
+     <Compile Include="Assets/Scripts/FPSController.cs" />
+     <Compile Include="Assets/Scripts/PlayerTankController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
