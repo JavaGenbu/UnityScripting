@@ -41,6 +41,7 @@
      <Compile Include="Assets/Scripts/PlayerTankController.cs" />
      <Compile Include="Assets/Scripts/FPSController.cs" />
      <Compile Include="Assets/Scripts/PlayerFPSController.cs" />
+     <Compile Include="Assets/Scripts/MouseLock.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
