@@ -355,6 +355,7 @@
 "Assets/Scripts/CapsuleRotation.cs"
 "Assets/Scripts/FPSController.cs"
 "Assets/Scripts/HelloWorld.cs"
+"Assets/Scripts/PlayerFPSController.cs"
 "Assets/Scripts/PlayerTankController.cs"
 -langversion:9.0
 
